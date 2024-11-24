@@ -1,4 +1,4 @@
-# Customer Segmentation - Project
+# Customer Segmentation, CLV and Funnels - Project
 
 Project is based on a dataset of fake raw events data. <br>
 
@@ -21,3 +21,19 @@ Please find the following materials about solution for CLV project:
    ![image](https://github.com/user-attachments/assets/7a0f6e00-79ec-4048-a42b-0e94315a8452)
 
 2. SQL query "clv_total_weekly_revenue" uploaded as a separate file
+
+
+## Funnels
+
+1. Google sheet with funnel analysis results:
+   https://docs.google.com/spreadsheets/d/1kZadvfPeKxR0xvb5f4wiYUOyc91iCTLQDUtKhf2HNw8/edit#gid=1697306542
+   Please find results in two separate sheets:
+   - Funnel Overview: funnel analysis for top 3 countries
+     ![image](https://github.com/user-attachments/assets/e1ff6714-3507-4652-b169-63b5fba3f692)
+
+   - Funnel Overview - Categories: funnal analysis for different traffic categories (desktop/mobile/tablet)
+     ![image](https://github.com/user-attachments/assets/c55a8bdd-a0e3-4c1c-a718-84a5502b592d)
+
+2. SQL files with queries for extracting data for analysis:
+   - funnel: query to extract data for top 3 countries
+   - funnel - categories: query to extract data for 3 categories
