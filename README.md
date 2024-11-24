@@ -37,3 +37,12 @@ Please find the following materials about solution for CLV project:
 2. SQL files with queries for extracting data for analysis:
    - funnel: query to extract data for top 3 countries
    - funnel - categories: query to extract data for 3 categories
+
+## Customer Retention and Churn
+
+1. Google sheet with retention and churn analysis:
+   https://docs.google.com/spreadsheets/d/1u422H9zejVTE54k_zqS-8eXYnWaG8JQCJPbSg4RPXI4/edit?gid=728485345#gid=728485345
+   ![image](https://github.com/user-attachments/assets/2cfbf9b1-0514-4b74-b5cf-b58527c5f49a)
+   ![image](https://github.com/user-attachments/assets/d54e4d4e-c481-4d0a-b18c-aa236a501eb7)
+
+2. SQL query "Weekly cohort retention"
