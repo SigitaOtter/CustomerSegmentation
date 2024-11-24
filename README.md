@@ -1,5 +1,7 @@
 # Customer Segmentation - Project
 
+Project is based on a dataset of fake raw events data. <br>
+
 ## Customer Segmentation & RFM
 
 Please find the following materials about solution for RFM project:
